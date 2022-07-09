@@ -5,7 +5,7 @@ This repository contains guides and abstract tutorials that help with using [per
 | Guide / Tutorial  | 
 | ------------- |
 | [Install Arconnect & Get your first AR tokens](./docs/getting-ar.md)     | 
-| [How to create your first podcast and upload episode](./docs/podcast-setup.md)      |
+| [How to create your first podcast and upload episode](./docs/podcast-setup-v2.md)      |
 
 ## Useful Links
 - [Permacast V2 contract source code](https://github.com/Parallel-news/permacast/tree/main/v2-contracts)
