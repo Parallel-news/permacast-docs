@@ -24,7 +24,7 @@ npm install arweave
 
 ### Creating a podcast
 
-![fid-pid](../../fid-pid.png)
+![fid-pid](../../img/fid-pid.png)
 
 ```js
 // initialize Arweave
